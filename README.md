@@ -1,4 +1,4 @@
-# KTPM – Tổng hợp bài Lab (Lab 1 → Lab 7)
+# KTPM – Tổng hợp LINK bài Lab (Lab 1 → Lab 7)
 
 Kính gửi Thầy,
 
